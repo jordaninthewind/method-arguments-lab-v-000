@@ -1,5 +1,3 @@
-def wonder(num)
-  return num * 2
+def introduction(name)
+  p "Hi, my name is #{name}."
 end
-
-wonder(3)
